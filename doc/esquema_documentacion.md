@@ -1,4 +1,4 @@
-# Esquema documentación Proyecto Final de Ciclo
+# Memoria Proyecto Final de Ciclo
 Esta documento tiene la finalidad de servir de guía para el desarrollo de la documentación requerida para la entrega del proyecto. 
 
 ### Notas
